@@ -1,5 +1,4 @@
-theme: jekyll-theme-architect
+remote_theme: Phlow/feeling-responsive
 title: Neighborhood Heroes
 description: Neighborhood Heroes website
 google_analytics: UA-123797778-1
-show_downloads: false
