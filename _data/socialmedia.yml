@@ -1,43 +1,48 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+# - name: GitHub
+#   url: http://github.com/phlow
+#   class: icon-github
+#   title: Code und mehr...
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/channel/UCSsscPZiYUx4-plHW2_kwUw
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Our YouTube channel"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/NeighborHeroes
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Our twitter page"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+# - name: Phlow YouTube Google+
+#   url: https://plus.google.com/u/0/+Phlow
+#   class: icon-googleplus
+#   title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: http://www.facebook.com/HeroesOfTheNeighborhood
+  class: icon-facebook
+  title: "Our Facebook page"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Instagram
+  url: https://www.instagram.com/HeroesNeighborhood/
+  class: icon-instagram
+  title: "Our Instagram"
 
+# - name: Twitch
+#   url: https://www.twitch.tv/NeighborhoodHeroes
+#   class: "fab fa-twitch fa-lg"
+#   title: "Our Twitch"
+  #content: <svg aria-hidden="true" data-prefix="fab" data-icon="twitch" class="svg-inline--fa fa-twitch fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M40.1 32L10 108.9v314.3h107V480h60.2l56.8-56.8h87l117-117V32H40.1zm357.8 254.1L331 353H224l-56.8 56.8V353H76.9V72.1h321v214zM331 149v116.9h-40.1V149H331zm-107 0v116.9h-40.1V149H224z"></path></svg>
 # - name: Pinterest
 #   url: http://www.pinterest.com/
 #   class: icon-pinterest
