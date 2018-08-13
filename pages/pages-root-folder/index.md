@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: NH_jumbotron.jpg
 widget1:
-  title: "Join the Neighborhood"
+  title: "Support our Family"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: 'Emails & stuff'
+  showButton: true
 widget2:
   title: "Become a Hero"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
   text: 'Partnering stuff'
+  showButton: true  
 widget3:
-  title: "Latest Updates"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: 'Twitter feed?'
+  title: '<a class="twitter-timeline" data-height="500" href="https://twitter.com/NeighborHeroes?ref_src=twsrc%5Etfw">Tweets by NeighborHeroes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+  showButton: false
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://mailchi.mp/14648d9d0e5e/neighborhood-heroes
-  text: Inform me about new updates and features ›
+  text: Sign up for the Neighborhood Newsletter
   style: alert
 permalink: /index.html
 #
@@ -43,3 +43,5 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+{% include _bookings.html %}
