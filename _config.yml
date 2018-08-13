@@ -3,8 +3,6 @@ slogan: 'Neighborhood Heroes'
 description: 'Neighborhood Heroes is a 501c3 registered non-profit dedicated to raising inclusivity in gaming!'
 google_analytics: UA-123797778-1
 
-author: iamdavidfrancis
-
 url: 'https://neighborhoodhero.es'
 baseurl: ''
 
@@ -39,6 +37,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - CNAME
 
 
 # The language setting is used in /includes/header.html for html-settings
