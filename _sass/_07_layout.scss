@@ -94,7 +94,8 @@ body.video cite { color: #fff; }
 
 @media #{$small-only} {
     #logo img {
-        display: none;
+        // display: none;
+        margin-top: .7rem;
     }
     #masthead {
         height: 200px;
@@ -343,6 +344,7 @@ body.video cite { color: #fff; }
 .t15 { margin-top: 15px !important; }
 .t20 { margin-top: 20px !important; }
 .t30 { margin-top: 30px !important; }
+.t40 { margin-top: 40px !important; }
 .t50 { margin-top: 50px !important; }
 .t60 { margin-top: 60px !important; }
 .t70 { margin-top: 70px !important; }
