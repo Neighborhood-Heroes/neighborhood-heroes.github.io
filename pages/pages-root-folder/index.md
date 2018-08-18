@@ -20,7 +20,7 @@ widget1:
     </p>
     <p>
       <center>
-        <a class="button small radius" href="mailto:james@neighborhoodhero.es">Share with us</a>
+        <a class="button small radius" href="mailto:BeAHero@neighborhoodhero.es">Share with us</a>
       </center>
     </p>
   showButton: false
